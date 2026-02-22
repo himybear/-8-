@@ -1,0 +1,5 @@
+{
+  "name": "Crazy Eights - 笑语疯狂 8 点",
+  "description": "A classic Crazy Eights card game built with React and Framer Motion. Play against an AI, match suits or ranks, and use the wild 8s to change the game!",
+  "requestFramePermissions": []
+}
